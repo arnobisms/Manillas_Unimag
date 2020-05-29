@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bracelets XYZ</string>
+    <string name="manillas">Choose options</string>
+    <string name="material">Material</string>
+    <string name="dije">Pendant</string>
+    <string name="tipo">Type</string>
+    <string name="moneda">Coin</string>
+    <string name="cantidad">Quantity</string>
+    <string name="calcular">Calculate</string>
+    <string name="limpiar">Clear</string>
+    <string name="material_cuero">Leather</string>
+    <string name="material_cuerda">Cord</string>
+    <string name="dije_martillo">Hammer</string>
+    <string name="dije_ancla">Anchor</string>
+    <string name="tipo_oro">Gold</string>
+    <string name="tipo_baño_oro">Gold plating</string>
+    <string name="tipo_oro_rosado">Pink Gold</string>
+    <string name="tipo_plata">Silver</string>
+    <string name="tipo_niquel">Nickel</string>
+    <string name="tipo_moneda_pesos">Colombian pesos</string>
+    <string name="tipo_moneda_dolares">Dollars</string>
+</resources>
