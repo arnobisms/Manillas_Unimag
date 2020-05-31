@@ -8,6 +8,8 @@
     <string name="cantidad">Cantidad</string>
     <string name="calcular">Calcular</string>
     <string name="limpiar">Limpiar</string>
+    <string name="error_cantidad">Digite la cantidad</string>
+    <string name="error_cantidad_0">La cantidad debe ser mayor que 0</string>
 
     <string name="material_cuero">Cuero</string>
     <string name="material_cuerda">Cuerda</string>

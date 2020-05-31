@@ -20,4 +20,6 @@
     <string name="tipo_niquel">Nickel</string>
     <string name="tipo_moneda_pesos">Colombian pesos</string>
     <string name="tipo_moneda_dolares">Dollars</string>
+    <string name="error_cantidad">Type quantity</string>
+    <string name="error_cantidad_0">quantity must be greater than 0</string>
 </resources>
